@@ -13,28 +13,37 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 
 ---
 
-# Utility Clients
+# Safest Clients (Open Source / Trusted)
 
-- Meteor Client
-- Lambda Client
-- Impact Client
-- Wurst Client
-- Aristois
-- BleachHack
-- Kami Blue
-- Inertia Client
-- Ares Client
-- ForgeHax
-- Kami Client
-- Seppuku
-- Xulu
-- Earthhack
-- Osiris Client
-- MatHax
-- KiwiClient
-- NullPoint
-- Catalyst Client
-- TrollHack
+These clients are generally considered the safest because they are open source or widely trusted by the community.
+
+1. [Meteor Client](https://meteorclient.com/)
+2. [Lambda Client](https://github.com/lambda-client/lambda)
+3. [BleachHack](https://bleachhack.org/)
+4. [LiquidBounce](https://liquidbounce.net/)
+5. [Kami Blue](https://github.com/kami-blue/client)
+6. [Earthhack](https://github.com/3arthqu4ke/3arthh4ck)
+7. [ForgeHax](https://github.com/fr1kin/ForgeHax)
+8. [Wurst Client](https://www.wurstclient.net/)
+9. [Impact Client](https://impactclient.net/)
+10. [Ares Client](https://aresclient.org/)
+
+---
+
+# Trusted Paid Clients
+
+These are popular paid clients with long-term reputations in the anarchy/crystal PvP community.
+
+1. [Future Client](https://www.futureclient.net/)
+2. [RusherHack](https://rusherhack.org/)
+3. [Konas Client](https://konasclient.com/)
+4. [Vape Client](https://www.vape.gg/)
+5. [Rise Client](https://riseclient.com/)
+6. [Pyro Client](https://pyroclient.com/)
+7. [Moon Client](https://moonclient.xyz/)
+8. [Entropy Client](https://entropy.club/)
+9. [Novoline](https://novoline.wtf/)
+10. [Astolfo Client](https://astolfo.lgbt/)
 
 ---
 
@@ -57,9 +66,26 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 - Astolfo Client
 - Exhibition Client
 - Entropy Client
-- Neverlose Client
-- Monsoon Client
-- ZeroDay Client
+
+---
+
+# Utility Clients
+
+- Meteor Client
+- Lambda Client
+- Impact Client
+- Wurst Client
+- Aristois
+- BleachHack
+- Kami Blue
+- Inertia Client
+- Ares Client
+- ForgeHax
+- Earthhack
+- NullPoint
+- TrollHack
+- KiwiClient
+- MatHax
 
 ---
 
@@ -82,9 +108,10 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 
 ---
 
-# Cracked Clients
+# Risky / Cracked Clients
 
-> ⚠️ Use at your own risk.
+> ⚠️ HIGH RISK  
+> Cracked clients are significantly more likely to contain malware, token loggers, crypto miners, or RATs.
 
 - Mio Client
 - Cracked Novoline
@@ -95,9 +122,19 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 - Cracked Moon
 - Cracked Entropy
 - Cracked Tenacity
-- Cracked Exhibition
-- Cracked Novoline X
 - Cracked Flux
+
+---
+
+# Safety Tips
+
+- Prefer open-source clients whenever possible.
+- Download only from official websites or GitHub pages.
+- Never trust random MediaFire or Discord downloads.
+- Scan files with VirusTotal before opening them.
+- Use an alt account when testing clients.
+- Keep important passwords and accounts secured.
+- Avoid cracked clients unless you fully trust the source.
 
 ---
 
@@ -113,14 +150,3 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 - Utility mods
 - AFK farming
 - Exploration
-
----
-
-# Notes
-
-- Some servers may permanently ban you for using hacked clients.
-- Use an alt account if testing on servers with anti-cheat.
-- Avoid downloading random “cracked” versions from sketchy websites.
-- Respect server rules and communities.
-- Always verify downloads from official client websites or GitHub pages.
-- Cracked clients are significantly more likely to contain malware or RATs.
