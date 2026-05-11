@@ -13,7 +13,7 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 
 ---
 
-# Free Clients
+# Utility Clients
 
 - Meteor Client
 - Lambda Client
@@ -23,58 +23,62 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 - BleachHack
 - Kami Blue
 - Inertia Client
-- LiquidBounce
-- SalHack
-- ThunderHack
-- Gamesense
 - Ares Client
-- Catalyst Client
 - ForgeHax
 - Kami Client
-- NullPoint
 - Seppuku
-- Phobos
-- EditMe
 - Xulu
-- OyVey
-- CreepySalHack
-- Atom Client
-- TrollHack
 - Earthhack
 - Osiris Client
-- Cornos
-- Aurora Client
-- SafeGuard
-- FDPClient
 - MatHax
 - KiwiClient
+- NullPoint
+- Catalyst Client
+- TrollHack
 
 ---
 
-# Paid Clients
+# Crystal PvP Clients
 
-- RusherHack — $19.99
-- Future Client — €24.99
+- Future Client
+- RusherHack
 - Konas Client
+- ThunderHack
+- Gamesense
+- Phobos
+- OyVey
+- EditMe
+- CreepySalHack
 - Pyro Client
 - Novoline
 - Vape Client
 - Rise Client
-- Tenacity Client
-- Flux Client
-- Dream Client
 - Moon Client
 - Astolfo Client
 - Exhibition Client
 - Entropy Client
+- Neverlose Client
 - Monsoon Client
 - ZeroDay Client
-- Augustus Client
-- Juul Client
-- Neverlose Client
-- Memeware
+
+---
+
+# General / Multi-Purpose Clients
+
+- LiquidBounce
+- FDPClient
+- Novoline X
+- Flux Client
+- Tenacity Client
+- Dream Client
 - Lithium Client
 - Remix Client
+- Augustus Client
+- Juul Client
+- Memeware
+- SafeGuard
+- Cornos
+- Aurora Client
 
 ---
 
@@ -98,8 +102,6 @@ A collection of popular Minecraft clients commonly used on servers like 2b2t and
 ---
 
 # Popular Uses
-
-These clients are commonly used for:
 
 - PvP
 - Crystal PvP
