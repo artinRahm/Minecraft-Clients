@@ -6,6 +6,10 @@ HIGH CHANCE OF GETTING RATTED OR MALLWARE
 
 #free
 
+Meteor Client
+
+Lambda Client
+
 #Paid
 
 #cracked
